@@ -3,3 +3,11 @@ fieldset {
     flex-direction: column;
     font-weight: bold;
     }
+
+ h1{
+    color: aqua;
+}
+
+.concept {
+    font-weight: bold;
+}
