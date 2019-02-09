@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Daily Journal</h1>
-    <form action="" id="mainForm">
+    <div id="mainForm">
        <fieldset>
             <label for="journalDate">Date of Entry</label>
             <input type="date" name="journalDate" id="JournalDate">
@@ -24,15 +24,15 @@
         </fieldset>
         <fieldset>
             <label for="mood">Mood of the Day</label>
-            <select>
-                    <option value="happy">Happy</option>
-                    <option value="sad">Sad</option>
+            <select id = "opt_mood">
+                    <option value="Happy">Happy</option>
+                    <option value="Sad">Sad</option>
             </select>
-       </fieldset> 
-       <button type="submit">RECORD JOURNAL ENTRY</button>
-        
-    </form>
-    
+       </fieldset>
+       <button id = "entry_button" type="submit">RECORD JOURNAL ENTRY</button>
+
+    </div>
+
     <article class="entryLog">
     <header>
           <h2> Daily Journal Log </h2>

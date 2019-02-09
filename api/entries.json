@@ -1,100 +1,151 @@
 {
-    "entries" : [{
-        "id" : 1,
-        "entryDate": "01/7/19",
-        "concept": "git",
-        "entry": "Today we started git.. It's not that easy for me.. don't like it",
-        "mood": "Ok"
+  "entries": [
+    {
+      "id": 1,
+      "entryDate": "01/7/19",
+      "concept": "git",
+      "entry": "Today we started git.. It's not that easy for me.. don't like it",
+      "mood": "Ok"
     },
     {
-        "id" : 2,
-        "entryDate": "01/9/19",
-        "concept": "First Group Project",
-        "entry": "Excited to start our first group project.. awesome team!!",
-        "mood": "Happy"
+      "id": 2,
+      "entryDate": "01/9/19",
+      "concept": "First Group Project",
+      "entry": "Excited to start our first group project.. awesome team!!",
+      "mood": "Happy"
     },
     {
-        "id" : 3,
-        "entryDate": "01/10/19",
-        "concept": "Merge conflict",
-        "entry": "Antonio deleted index.html and merged his branch into master and i tried to merge my branch which has index.html there is merge conflict. Steve solved it but still didn't get it how we solved it",
-        "mood": "Happy"
+      "id": 3,
+      "entryDate": "01/10/19",
+      "concept": "Merge conflict",
+      "entry": "Antonio deleted index.html and merged his branch into master and i tried to merge my branch which has index.html there is merge conflict. Steve solved it but still didn't get it how we solved it",
+      "mood": "Happy"
     },
     {
-        "id" : 4,
-        "entryDate": "01/15/2019",
-        "concept": "Arrays",
-        "entry": "We learned about 4 different array methods",
-        "mood": "good"
+      "id": 4,
+      "entryDate": "01/15/2019",
+      "concept": "Arrays",
+      "entry": "We learned about 4 different array methods",
+      "mood": "good"
     },
     {
-        "id" : 5,
-        "entryDate": "01/17/19",
-        "concept": "json",
-        "entry": "Started working on Json.. fetching data seems easy but dealing with it not easy",
-        "mood": "Happy"
+      "id": 5,
+      "entryDate": "01/17/19",
+      "concept": "json",
+      "entry": "Started working on Json.. fetching data seems easy but dealing with it not easy",
+      "mood": "Happy"
     },
     {
-        "id" : 6,
-        "entryDate": "01/18/19",
-        "concept": "Objects",
-        "entry": "Today we learned to create an object",
-        "mood": "Happy"
+      "id": 6,
+      "entryDate": "01/18/19",
+      "concept": "Objects",
+      "entry": "Today we learned to create an object",
+      "mood": "Happy"
     },
     {
-        "id" : 7,
-        "entryDate": "01/21/2019",
-        "concept": "Api",
-        "entry": "Didn't come to school.. Learned how to fetch data from external database",
-        "mood": "Ok"
+      "id": 7,
+      "entryDate": "01/21/2019",
+      "concept": "Api",
+      "entry": "Didn't come to school.. Learned how to fetch data from external database",
+      "mood": "Ok"
     },
     {
-        "id" : 8,
-        "entryDate": "01/22/2019",
-        "concept": "Event Handling",
-        "entry": "We started learning event handling...",
-        "mood": "Happy"
+      "id": 8,
+      "entryDate": "01/22/2019",
+      "concept": "Event Handling",
+      "entry": "We started learning event handling...",
+      "mood": "Happy"
     },
     {
-        "id" : 9,
-        "entryDate": "01/22/2019",
-        "concept": "Event Handling",
-        "entry": "We did more practice on event handling...",
-        "mood": "Happy"
+      "id": 9,
+      "entryDate": "01/22/2019",
+      "concept": "Event Handling",
+      "entry": "We did more practice on event handling...",
+      "mood": "Happy"
     },
     {
-        "id" : 10,
-        "entryDate": "01/24/2019",
-        "concept": "Group Project",
-        "entry": "Started a New Group Project - Welcome to Nashville!!",
-        "mood": "Happy"
+      "id": 10,
+      "entryDate": "01/24/2019",
+      "concept": "Group Project",
+      "entry": "Started a New Group Project - Welcome to Nashville!!",
+      "mood": "Happy"
     },
     {
-        "id" : 11,
-        "entryDate": "01/25/2019",
-        "concept": "Group Project",
-        "entry": "Working on Group Project",
-        "mood": "Happy"
+      "id": 11,
+      "entryDate": "01/25/2019",
+      "concept": "Group Project",
+      "entry": "Working on Group Project",
+      "mood": "Happy"
     },
     {
-        "id" : 12,
-        "entryDate": "01/28/2019",
-        "concept": "Group Project",
-        "entry": "Working on Group Project",
-        "mood": "Happy"
+      "id": 12,
+      "entryDate": "01/28/2019",
+      "concept": "Group Project",
+      "entry": "Working on Group Project",
+      "mood": "Happy"
     },
     {
-        "id" : 13,
-        "entryDate": "01/29/2019",
-        "concept": "Grunt",
-        "entry": "We did presentation of our group project in the morning, then learned grunt",
-        "mood": "Happy"
+      "id": 13,
+      "entryDate": "01/29/2019",
+      "concept": "Grunt",
+      "entry": "We did presentation of our group project in the morning, then learned grunt",
+      "mood": "Happy"
     },
     {
-        "id" : 14,
-        "entryDate": "01/31/2019",
-        "concept": "Grunt",
-        "entry": "We did presentation of our group project in the morning, then learned grunt",
-        "mood": "Happy"
-    }]
+      "id": 14,
+      "entryDate": "01/31/2019",
+      "concept": "Grunt",
+      "entry": "We did presentation of our group project in the morning, then learned grunt",
+      "mood": "Happy"
+    },
+    {
+      "entryDate": "2019-02-01",
+      "concept": "Array Methods",
+      "entry": "asd",
+      "mood": "Happy",
+      "id": 15
+    },
+    {
+      "entryDate": "2019-02-04",
+      "concept": "Object MEthods",
+      "entry": "sad",
+      "mood": "Happy",
+      "id": 16
+    },
+    {
+      "entryDate": "2019-02-06",
+      "concept": "Modularization",
+      "entry": "sdds",
+      "mood": "Happy",
+      "id": 17
+    },
+    {
+      "entryDate": "2019-02-07",
+      "concept": "Array Methods",
+      "entry": "sdgsff",
+      "mood": "Happy",
+      "id": 18
+    },
+    {
+      "entryDate": "2019-02-08",
+      "concept": "Modularization",
+      "entry": "aaaaaaaaaaaaaaaaaa",
+      "mood": "Happy",
+      "id": 19
+    },
+    {
+      "entryDate": "2019-02-11",
+      "concept": "dfdkfj",
+      "entry": "bbbbbbbbbbbbbbb",
+      "mood": "Happy",
+      "id": 20
+    },
+    {
+      "entryDate": "2019-02-13",
+      "concept": "dgdgdfgdf",
+      "entry": "dgdffdgdgdgf",
+      "mood": "Happy",
+      "id": 21
+    }
+  ]
 }
