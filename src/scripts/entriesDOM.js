@@ -7,7 +7,7 @@
 const DOM_methods = {
     renderJournalEntries(entries) {
         let entryLogEl = document.querySelector(".entryLog")
-        entryLogEl.innerHTML += component_method.makeJournalEntryComponent(entries)
+        entryLogEl.innerHTML += entryComponent.makeJournalEntryComponent(entries)
     },
 
     allEntries(arrayOfEnvents) {

@@ -7,7 +7,7 @@
 */
 
 
-const component_method = {
+const entryComponent = {
     makeJournalEntryComponent (journalEntry) {
         // Create your own HTML structure for a journal entry
         return `<section class = "single_entry">
@@ -17,5 +17,5 @@ const component_method = {
     </section>
         `
     }
-    
+
 }
